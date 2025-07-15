@@ -23,7 +23,7 @@
 🧠 **This Summer's Project:**
 > An intelligent dashboard for traders to upload trades, analyze performance, visualize data, and receive AI feedback.
 
-📌 [Check the repo →](https://github.com/your-username/trading-dashboard)
+📌 [Check the repo →](https://github.com/jonatanyv/JONATANYV)
 
 ---
 
