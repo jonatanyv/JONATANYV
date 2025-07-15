@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Jonatan 👋</h1>
+<p align="center">Full-Stack Developer • Fintech Enthusiast • AI Explorer</p>
 
-<!--
-**jonatanyv/JONATANYV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🎓 Computer Engineering student passionate about finance, software, and real-world impact.  
+🚀 Currently building an **AI-powered Trading Dashboard** using FastAPI, React, and PostgreSQL.  
+🌍 Open to opportunities in **U.S.-based fintech startups** and remote developer roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🛠️ **Tech Stack I'm Working With:**
+
+- Frontend: React, Tailwind CSS
+- Backend: Python, FastAPI, Pandas
+- Database: PostgreSQL, SQLite
+- Visualization: Chart.js, Plotly
+- AI: OpenAI API
+- Tools: Git, GitHub, Docker, Vercel, Render
+
+---
+
+🧠 **This Summer's Project:**
+> An intelligent dashboard for traders to upload trades, analyze performance, visualize data, and receive AI feedback.
+
+📌 [Check the repo →](https://github.com/your-username/trading-dashboard)
+
+---
+
+📫 **Let’s Connect!**
+
+
+- [Email](jonatanyep@gmail.com)
+
+---
